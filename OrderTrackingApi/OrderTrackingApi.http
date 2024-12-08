@@ -1,0 +1,6 @@
+@OrderTrackingApi_HostAddress = http://localhost:5189
+
+GET {{OrderTrackingApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
